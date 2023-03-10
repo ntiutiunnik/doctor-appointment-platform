@@ -22,7 +22,7 @@ The system consists of the following modules:
 
 The following picture illustrates the IBM Cloud architecture described above.
 
-![final schema (1)](https://user-images.githubusercontent.com/49955769/224269499-f50947ed-773f-4662-9b3e-1891ccc99011.jpg)
+![final schema (2)](https://user-images.githubusercontent.com/49955769/224278956-282eccfb-a777-4948-8b0c-c43146b95e4e.jpg)
 
 ## Source code
 https://github.com/ntiutiunnik/gateway-doctor-appointment
