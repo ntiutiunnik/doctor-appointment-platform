@@ -25,7 +25,13 @@ The following picture illustrates the IBM Cloud architecture described above.
 ![final schema (1)](https://user-images.githubusercontent.com/49955769/224269499-f50947ed-773f-4662-9b3e-1891ccc99011.jpg)
 
 ## Source code
+https://github.com/ntiutiunnik/gateway-doctor-appointment
 
+https://github.com/ntiutiunnik/manager-doctor-appointment
+
+https://github.com/ntiutiunnik/manager-appointment-history
+
+https://github.com/ntiutiunnik/discoveryserver
 
 ## Try it out
 Swagger link for testing:
